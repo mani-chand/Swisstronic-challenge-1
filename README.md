@@ -1,13 +1,16 @@
-# Sample Hardhat Project
+# Challenge by Swisstronic
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+challenge : 
 
-Try running some of the following tasks:
+The challenge is simple. All you have to do is create and deploy an ERC20 contract, mint at least 100 tokens using Hardhat, and publish the code in a public GitHub repository.
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Exicution steps:
+- open a terminal
+- copy and past ```git clone https://github.com/mani-chand/Swisstronic-challenge-1.git``` command in that terminal.
+- do ```cd Swisstronic-challenge-1``` in terminal.
+- Do ```npm install``` in terminal.
+- Do ```npx hardhat test``` in terminal. 
+
+Excicution Screenshot : 
+
+![image](https://github.com/mani-chand/Swisstronic-challenge-1/assets/65899331/164104d4-fda0-40d3-9fc0-15fb613ef057)
